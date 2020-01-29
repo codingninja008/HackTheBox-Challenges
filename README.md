@@ -14,7 +14,7 @@ Challenges completed:
 | Name |  Link |
 | :---         |          ---: |
 | Keys    | git diff      |
-| Bank Heist     | [I'm a relative reference to a repository file](https://github.com/codingninja008/HackTheBox-Write-Ups/blob/master/Challenges/Bank%20Heist%20walkthrough.pdf)      |
+| Bank Heist     | [Here](https://github.com/codingninja008/HackTheBox-Write-Ups/blob/master/Challenges/Bank%20Heist%20walkthrough.pdf)      |
 | Decode Me!!     |  git diff      |
 | Templed    |  git diff      |
 
