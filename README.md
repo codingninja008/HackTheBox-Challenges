@@ -13,10 +13,10 @@ Challenges completed:
 
 | Name |  Link |
 | :---         |          ---: |
-| Keys    | git diff      |
+| Keys    | [Here](https://github.com/codingninja008/HackTheBox-Write-Ups/blob/master/Challenges/Keys%20walkthrough.pdf)      |
 | Bank Heist     | [Here](https://github.com/codingninja008/HackTheBox-Write-Ups/blob/master/Challenges/Bank%20Heist%20walkthrough.pdf)      |
-| Decode Me!!     |  git diff      |
-| Templed    |  git diff      |
+| Decode Me!!     |[Here](https://github.com/codingninja008/HackTheBox-Write-Ups/blob/master/Challenges/Decode%20me%20walkthrough.pdf)     |
+| Templed    |  [Here](https://github.com/codingninja008/HackTheBox-Write-Ups/blob/master/Challenges/Templed%20walkthrough.pdf)      |
 
 
 
@@ -24,28 +24,27 @@ Challenges completed:
 
 | Name |  Link |
 | :---         |          ---: |
-| Keys    | git diff      |
-| Digital Cube     |  git diff      |
-| Forest     |  git diff      |
-| Da Vinci     |  git diff      |
-| Senseless Behaviour     |  git diff      |
-| Image Processing 101     |  git diff      |
+| Digital Cube     |  [Here](https://github.com/codingninja008/HackTheBox-Write-Ups/blob/master/Challenges/Digital%20Cube%20walkthrough.pdf)      |
+| Forest     |  [Here](https://github.com/codingninja008/HackTheBox-Write-Ups/blob/master/Challenges/Forest%20walkthrough.pdf)      |
+| Da Vinci     |  [Here](https://github.com/codingninja008/HackTheBox-Write-Ups/blob/master/Challenges/DaVinci%20Walkthrough.pdf)      |
+| Pusheen Loves Graphs     |  [Here](https://github.com/codingninja008/HackTheBox-Write-Ups/blob/master/Challenges/Pusheen%20walkthrough.pdf)      |
+| Retro     |  [Here](https://github.com/codingninja008/HackTheBox-Write-Ups/blob/master/Challenges/Retro%20walkthrough.pdf)      |
+| Senseless Behaviour     |  [Here](https://github.com/codingninja008/HackTheBox-Write-Ups/blob/master/Challenges/senseless%20behaviour%20walkthrough.pdf)      |
+| Image Processing 101     |  [Here](https://github.com/codingninja008/HackTheBox-Write-Ups/blob/master/Challenges/image%20processing%20101%20walkthrough.pdf)      |
 
 
 **Web Challenges**
 
 | Name |  Link |
 | :---         |          ---: |
-| Keys    | git diff      |
-| Lernaean     |  git diff      |
-| Cartographer     |  git diff      |
-| Emdee five for life     |  git diff      |
-| Fuzzy    |  git diff      |
+| Lernaean     |  [Here](https://github.com/codingninja008/HackTheBox-Write-Ups/blob/master/Challenges/Lernaean%20walkthrough.pdf)      |
+| Cartographer     |  [Here](https://github.com/codingninja008/HackTheBox-Write-Ups/blob/master/Challenges/Cartographer%20walkthrough.pdf)      |
+| Emdee five for life     |  [Here](https://github.com/codingninja008/HackTheBox-Write-Ups/blob/master/Challenges/emdee%20five%20for%20life%20walkthrough.pdf)      |
+| Fuzzy    |  [Here](https://github.com/codingninja008/HackTheBox-Write-Ups/blob/master/Challenges/Took%20the%20byte%20walkthrough.pdf)      |
 
 
 **Forensics Challenges**
 
 | Name |  Link |
 | :---         |          ---: |
-| Keys    | git diff      |
-| Took the byte    |  git diff      |
+| Took the byte    |  [Here](https://github.com/codingninja008/HackTheBox-Write-Ups/blob/master/Challenges/Took%20the%20byte%20walkthrough.pdf)      |
