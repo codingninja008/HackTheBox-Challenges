@@ -52,3 +52,7 @@ Challenges completed:
 | Name |  Link |
 | :---         |          ---: |
 | Took the byte    |  [Here](https://github.com/codingninja008/HackTheBox-Write-Ups/blob/master/Challenges/Took%20the%20byte%20walkthrough.pdf)      |
+| Deadly Arthropod    |  [Here](https://github.com/codingninja008/HackTheBox-Write-Ups/blob/master/Challenges/Deadly-Arthropod%20walkthrough.pdf)      |
+| Illumination    |  [Here](https://github.com/codingninja008/HackTheBox-Write-Ups/blob/master/Challenges/Illumination%20walkthrough.pdf)      |
+| MarketDump    |  [Here](https://github.com/codingninja008/HackTheBox-Write-Ups/blob/master/Challenges/MarketDump%20walkthrough.pdf)      |
+| Reminiscent    |  [Here](https://github.com/codingninja008/HackTheBox-Write-Ups/blob/master/Challenges/reminiscent%20walkthrough.pdf)      |
