@@ -45,6 +45,10 @@ Challenges completed:
 | Cartographer     |  [Here](https://github.com/codingninja008/HackTheBox-Write-Ups/blob/master/Challenges/Cartographer%20walkthrough.pdf)      |
 | Emdee five for life     |  [Here](https://github.com/codingninja008/HackTheBox-Write-Ups/blob/master/Challenges/emdee%20five%20for%20life%20walkthrough.pdf)      |
 | Fuzzy    |  [Here](https://github.com/codingninja008/HackTheBox-Write-Ups/blob/master/Challenges/Took%20the%20byte%20walkthrough.pdf)      |
+| ezpz    |  [Here](https://github.com/codingninja008/HackTheBox-Write-Ups/blob/master/Challenges/ezpz%20walkthrough.pdf)      |
+| Freelancer    |  [Here](https://github.com/codingninja008/HackTheBox-Write-Ups/blob/master/Challenges/Freelancer%20walkthrough.pdf)      |
+| Grammar    |  [Here](https://github.com/codingninja008/HackTheBox-Write-Ups/blob/master/Challenges/Grammar%20walkthrough.pdf)      |
+| I know mag1k    |  [Here](https://github.com/codingninja008/HackTheBox-Write-Ups/blob/master/Challenges/I%20know%20mag1k%20walkthrough.pdf)      |
 
 
 **Forensics Challenges**
