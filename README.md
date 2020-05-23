@@ -62,8 +62,3 @@ Challenges completed:
 | Reminiscent    |  [Here](https://github.com/codingninja008/HackTheBox-Write-Ups/blob/master/Challenges/reminiscent%20walkthrough.pdf)      |
 
 
-**Machines**
-
-| Name |  Link |
-| :---         |          ---: |
-| OpenAdmin - 10.10.10.171    |  [Here](https://github.com/codingninja008/HackTheBox-Write-Ups/blob/master/Machines/OpenAdmin%20WriteUp.pdf)      |
